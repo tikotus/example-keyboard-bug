@@ -10,3 +10,7 @@ input {
 .simple-keyboard {
   max-width: 850px;
 }
+
+body {
+  touch-action: manipulation;
+}

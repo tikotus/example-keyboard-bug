@@ -56,7 +56,6 @@ function App() {
         layoutName={layoutName}
         onChange={onChange}
         onKeyPress={onKeyPress}
-        useButtonTag={true}
         preventMouseDownDefault={true}
       />
     </div>
